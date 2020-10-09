@@ -2,7 +2,7 @@ song = "";
 
 function preload()
 {
-  song = loadSound("music.mp3");
+  
 }
 
 function setup() {
@@ -20,5 +20,5 @@ function draw()
 
 function play()
 {
-    song.play();
+    
 }
